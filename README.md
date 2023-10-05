@@ -2,10 +2,10 @@
 
 Hello, I'm Ali Al-Hadi! 👋
 
-I'm a student studying in the Information Systems department,and 
-I'm passionate about Front-end development.
-Here, you can find some of the projects
-and repositories related to my learning journey and interests.
+I'm a student studying in the Information Systems department,and%20 
+I'm passionate about Front-end development.%20 
+Here, you can find some of the projects%20 
+and repositories related to my learning journey and interests.%20 
 
 ## About Me
 
