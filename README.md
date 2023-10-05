@@ -1,16 +1,23 @@
-### Hi there 👋
+# Ali Al-Hadi's GitHub Profile
 
-<!--
-**Ali-Elhadi-GitHub/Ali-Elhadi-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Ali Al-Hadi! 👋
 
-Here are some ideas to get you started:
+I'm a student studying in the Information Systems department, and I'm passionate about Front-end development. Here, you can find some of the projects and repositories related to my learning journey and interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- **Name:** Ali Al-Hadi
+- **Major:** Information Systems
+- **Area of Interest:** Front-end Development
+
+## Projects
+
+Here are some of the projects I've worked on or currently working on:
+
+1. [Project 1](link-to-project-1): Brief description of project 1.
+2. [Project 2](link-to-project-2): Brief description of project 2.
+3. [Project 3](link-to-project-3): Brief description of project 3.
+
+Feel free to explore my repositories and projects. If you have any questions or want to collaborate on something exciting, don't hesitate to reach out to me!
+
+Happy coding! 🚀
