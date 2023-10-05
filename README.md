@@ -9,7 +9,6 @@ and repositories related to my learning journey and interests.
 
 ## About Me
 
-- **Name:** Ali Al-Hadi
 - **Major:** Information Systems
 - **Area of Interest:** Front-end Development
 
