@@ -1,25 +1,41 @@
-# Ali Al-Hadi's GitHub Profile
 
-Hello, I'm Ali Al-Hadi! 👋
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-I'm a student studying in the Information Systems department,and 
-I'm passionate about Front-end development.
-Here, you can find some of the projects%
-and repositories related to my learning journey and interests.
+<h3 align="center">
+  Welcome to Ali Elhadi's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## About Me
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-- **Major:** Information Systems
-- **Area of Interest:** Front-end Development
+- 🏢 I'm a Software Engineer 
+- 👨‍💻 As a IS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-## Projects
 
-Here are some of the projects I've worked on or currently working on:
 
-1. [Project 1](link-to-project-1): Brief description of project 1.
-2. [Project 2](link-to-project-2): Brief description of project 2.
-3. [Project 3](link-to-project-3): Brief description of project 3.
+### Connect with Me :
 
-Feel free to explore my repositories and projects. If you have any questions or want to collaborate on something exciting, don't hesitate to reach out to me!
+<a href="https://www.linkedin.com/in/ali-elhadi/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Elhadi-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-Happy coding! 🚀
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanemNaga&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=hanemNaga&style=for-the-badge">
+</a>
